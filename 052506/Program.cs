@@ -15,7 +15,7 @@ namespace _052506
     static void Main(string[] args)
     {
       int s = 1245789, n = s;
-      string[] d = { "一", "二", "三", "四", "五", "六", "七", "八", "九" };
+      string[] d = { "壹", "貳", "參", "肆", "伍", "陸", "柒", "捌", "玖" };
       string msg = "";
       while (s > 0)
       {
